@@ -1,2 +1,2 @@
 # IT Frankfurt GmbH
-![](arbeitgeber-header.jpg)
+![](/arbeitgeber-header.jpg)
